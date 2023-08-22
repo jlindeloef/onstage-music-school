@@ -30,20 +30,23 @@ header h1 {
     background-color: darkgray;
 }
 
-ul.menu  {
+ul.menu {
     margin-top: 15px;
 }
 
-.menu > li {
+.menu>li {
     display: inline;
     padding: 0 10px 0 10px;
     font-size: 16px;
 }
 
-.menu > a {
-   text-decoration: none; 
-   color: black;
-   padding: 8px;
-   font-variant: small-caps;
+.menu>a {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    font-variant: small-caps;
 }
 
+.menu a:hover {
+    color: black;
+}
