@@ -6,20 +6,22 @@ body {
 #wrap {
     max-width: 960px;
     margin: 0 auto;
-    background-color: turquoise;
+    background-color: darkblue;
     padding: 32px;
+    
 }
 
 header {
     background-color: darkgrey;
     height: 100px;
     padding: 4px;
+    background-image: url('../images/onstage-background.webp')
 }
 
 header h1 {
     text-transform: uppercase;
     text-align: center;
-    color: black;
+    color: white;
     line-height: 40px;
 }
 
@@ -27,7 +29,7 @@ header h1 {
     padding: 5px 0 5px 0;
     text-align: center;
     line-height: 32px;
-    background-color: darkgray;
+    background-color: black;
 }
 
 ul.menu {
