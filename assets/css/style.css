@@ -12,16 +12,16 @@ body {
     flex-direction: column;
     font-family: 'Arial', sans-serif;
     background-color: white;
+    position: relative;
 }
 
+/*Header*/
 header {
-    padding: 20px;
+    padding: 10px 20px 5px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    height: 60px;
-    /*background-image: url('../images/onstage-background.webp')*/
     background-color: rgb(177, 66, 25);
 }
 
@@ -39,12 +39,22 @@ header h1 {
     background-color: rgb(177, 66, 25);
     line-height: 32px;
     padding: 5px 0 5px 0;
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+
     /*background-image: url('../images/navbar.webp')*/
+
 }
 
 nav>ul {
     margin: 0;
-    }
+
+}
+
+li>a {
+    color: black;
+}
 
 
 #menu a:hover {
@@ -62,5 +72,5 @@ main {
 
 /* Footer */
 footer {
-    background-color: orange;
+    background-color: rgb(177, 66, 25);
 }
