@@ -3,20 +3,25 @@ body {
     background-color: white;
 }
 
-#wrap {
-    max-width: 960px;
-    margin: 0 auto;
-    background-color: darkblue;
-    padding: 32px;
+#header {
+   /* max-width: 960px;*/
+   /* margin: 0 auto;*/
+   /* background-color: darkblue; */
+   /* padding: 32px;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../images/onstage-background.webp')
     
 }
 
-header {
+/*header {
     background-color: darkgrey;
     height: 100px;
     padding: 4px;
     background-image: url('../images/onstage-background.webp')
-}
+}*/
 
 header h1 {
     text-transform: uppercase;
