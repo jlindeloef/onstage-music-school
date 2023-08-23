@@ -7,11 +7,12 @@ body {
    /* max-width: 960px;*/
    /* margin: 0 auto;*/
    /* background-color: darkblue; */
-   /* padding: 32px;*/
+   padding: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    height: 60px;
     background-image: url('../images/onstage-background.webp')
     
 }
@@ -27,10 +28,20 @@ header h1 {
     text-transform: uppercase;
     text-align: center;
     color: white;
-    line-height: 40px;
+    /*line-height: 35px;*/
+    margin-top: 5px;
+}
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: black;
+    line-height: 32px;
+    padding: 5px 0 5px 0;
+
 }
 
-.menu {
+/*.menu {
     padding: 5px 0 5px 0;
     text-align: center;
     line-height: 32px;
@@ -52,7 +63,7 @@ ul.menu {
     color: black;
     padding: 8px;
     font-variant: small-caps;
-}
+}*/
 
 .menu a:hover {
     color: black;
