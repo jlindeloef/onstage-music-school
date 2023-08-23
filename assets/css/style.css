@@ -1,70 +1,66 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
+    /* General styles */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: 'Arial', sans-serif;
     background-color: white;
 }
 
-#header {
-   /* max-width: 960px;*/
-   /* margin: 0 auto;*/
-   /* background-color: darkblue; */
-   padding: 20px;
+header {
+    padding: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     height: 60px;
-    background-image: url('../images/onstage-background.webp')
-    
+    /*background-image: url('../images/onstage-background.webp')*/
+    background-color: rgb(177, 66, 25);
 }
-
-/*header {
-    background-color: darkgrey;
-    height: 100px;
-    padding: 4px;
-    background-image: url('../images/onstage-background.webp')
-}*/
 
 header h1 {
     text-transform: uppercase;
     text-align: center;
-    color: white;
-    /*line-height: 35px;*/
+    color: rgb(34, 32, 32);
     margin-top: 5px;
 }
+
 #menu {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: black;
+    background-color: rgb(177, 66, 25);
     line-height: 32px;
     padding: 5px 0 5px 0;
-
+    /*background-image: url('../images/navbar.webp')*/
 }
 
-/*.menu {
-    padding: 5px 0 5px 0;
-    text-align: center;
-    line-height: 32px;
-    background-color: black;
-}
+nav>ul {
+    margin: 0;
+    }
 
-ul.menu {
-    margin-top: 15px;
-}
 
-.menu>li {
-    display: inline;
-    padding: 0 10px 0 10px;
-    font-size: 16px;
-}
-
-.menu>a {
-    text-decoration: none;
+#menu a:hover {
     color: black;
-    padding: 8px;
-    font-variant: small-caps;
-}*/
+}
 
-.menu a:hover {
-    color: black;
+/* Main content */
+main {
+    /* Make main element take up any surplus space to push footer down */
+    display: flex;
+    flex: 1 0 auto;
+    margin-top: 0;
+    background-color: aqua;
+}
+
+/* Footer */
+footer {
+    background-color: orange;
 }
