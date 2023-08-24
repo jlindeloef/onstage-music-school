@@ -26,7 +26,7 @@ header {
     justify-content: center;
     align-items: center;
     background-color: rgb(177, 66, 25);
-    
+
 }
 
 header h1 {
@@ -46,26 +46,18 @@ nav {
 
 #menu {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
     font-size: 90%;
     font-family: 'Oswald';
-    letter-spacing: 4px;
+    letter-spacing: 1px;
     list-style-type: none;
 
     /*background-image: url('../images/navbar.webp')*/
-
-}
-
-nav>ul {
-    margin: 0;
-
 }
 
 li>a {
     color: black;
 }
-
 
 #menu a:hover {
     color: black;
@@ -85,19 +77,24 @@ footer {
     background-color: rgb(177, 66, 25);
 }
 
-/* Media query: tablets and larger (768px and up) */
+
+/* Media query: tablets and larger (768px and up) 
 @media screen and (min-width: 768px) {
-/* Header */
-    nav {
+
+    /* Header */
+   /* nav {
         display: block;
         position: relative;
+        width: fit-content;
+        padding-right: 4rem;
     }
+
     #menu {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
-    }
-        
+    } */
+
 }
