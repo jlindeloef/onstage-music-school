@@ -72,6 +72,12 @@ main {
     background-color: white;
 }
 
+/*learnimage */
+#learnimage {
+ height: 600px;
+ width: 100%;   
+background-image: url('../images/navbar.webp') 
+}
 /* Footer */
 #social-networks {
     text-align: center;
