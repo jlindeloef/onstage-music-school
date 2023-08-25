@@ -27,41 +27,25 @@ h3 {
 }
 
 /*Header*/
+header {}
 
+/* Add a black background color to the top navigation */
 .topnav {
+    display: flex;
+    justify-content: space-between;
     background-color: rgb(131, 224, 201);
     overflow: hidden;
+    width: 100%;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    display: flex;
-    justify-content: leftspace between;
-    display: inline;
+
     color: black;
     text-align: center;
-    padding: 0 20px;
-    list-style-type: none;
-    font-size: 18px;
-    font-family: 'oswald', sans-serif;
+    padding: 14px 6px;
     text-decoration: none;
-    
-    
-
-
-
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-    background-color: black;
-    color: white;
+    font-size: 17px;
 }
 
 header h1 {
@@ -79,9 +63,9 @@ header h1 {
     line-height: 32px;
 
 
-}
+}*/
 
-#menu {
+/*.topnav a {
     display: flex;
     justify-content: space-around;
     font-size: 90%;
