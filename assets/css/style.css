@@ -44,24 +44,22 @@ h3 {
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: rgb(177, 66, 25);
+    background-color: rgb(131, 224, 201);
     overflow: hidden;
-    
+
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     display: inline-block;
     color: black;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 145px;
     list-style-type: none;
     font-size: 18px;
     font-family: 'oswald', sans-serif;
-   
-    
     
 }
 
@@ -73,9 +71,10 @@ h3 {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #04AA6D;
+    background-color: black;
     color: white;
 }
+
 /*#menu {
     display: flex;
     justify-content: space-around;
@@ -84,7 +83,7 @@ h3 {
     letter-spacing: 1px;
     list-style-type: none;*/
 
-    /*background-image: url('../images/navbar.webp')*/
+/*background-image: url('../images/navbar.webp')
 
 
 li>a {
@@ -93,21 +92,21 @@ li>a {
 
 #menu a:hover {
     color: black;
-}
-
+}*/
 header h1 {
     text-transform: uppercase;
     text-align: center;
     color: rgb(34, 32, 32);
     margin-top: 5px;
     font-family: 'oswald', sans-serif;
+    
 }
 
-nav {
+/*nav {
     background-color: lightgoldenrodyellow;
     padding: 5px 0 5px 0;
     line-height: 32px;
-   
+
 
 }
 
@@ -117,18 +116,18 @@ nav {
     font-size: 90%;
     font-family: 'Oswald';
     letter-spacing: 1px;
-    list-style-type: none;
+    list-style-type: none;*/
 
-    /*background-image: url('../images/navbar.webp')*/
-}
+    /*background-image: url('../images/navbar.webp')
+}*/
 
-li>a {
+/*li>a {
     color: black;
 }
 
 #menu a:hover {
     color: black;
-}
+}*/
 
 /* Main content */
 main {
@@ -181,7 +180,7 @@ ul {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: rgb(177, 66, 25);
+    background-color: rgb(131, 224, 201);
 }
 
 #social-networks i {
