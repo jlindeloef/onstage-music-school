@@ -1,7 +1,7 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
-/* Asterisk wildcard selector to override default styles added by the browser */
+/* Asterisk wildcard selector */
 * {
     padding: 0;
     margin: 0;
@@ -18,12 +18,14 @@ body {
     position: relative;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'oswald', sans-serif;
     text-transform: uppercase;
-    color:black;
+    color: black;
 }
-   
+
 /*Header*/
 header {
     padding: 10px 20px 5px;
@@ -40,7 +42,7 @@ header h1 {
     text-align: center;
     color: rgb(34, 32, 32);
     margin-top: 5px;
-    font-family: 'oswald',sans-serif;
+    font-family: 'oswald', sans-serif;
 }
 
 nav {
@@ -71,27 +73,39 @@ li>a {
 
 /* Main content */
 main {
-    /* Make main element take up any surplus space to push footer down */
+    /* Make main element push footer down */
     /*display: flex;*/
     flex: 1 0 auto;
     margin-top: 0;
     background-color: white;
 }
 
-    #passion {
-        text-align: center;
-    }
+#passion {
+    text-align: center;
+}
 
-.About-us  {
+.About-us {
     margin-bottom: 10px;
 }
 
 .about-school {
     margin-bottom: 10px;
 }
-
-
+.courses {
+    margin-bottom: 10px;
+    text-align: center;
     
+}
+
+  ul {
+      column-count: 2;
+      
+      list-style-type: none;
+  }
+ .signup {
+     margin-bottom: 10px;
+    text-align: center;
+ } 
 
 /* Footer */
 #social-networks {
@@ -108,24 +122,3 @@ main {
     padding: 5%;
     color: black;
 }
-
-/* Media query: tablets and larger (768px and up) 
-@media screen and (min-width: 768px) {
-
-    /* Header */
-/* nav {
-        display: block;
-        position: relative;
-        width: fit-content;
-        padding-right: 4rem;
-    }
-
-    #menu {
-        display: flex;
-    }
-
-    #menu>li {
-        padding-left: 1rem;
-    } 
-
-}*/
