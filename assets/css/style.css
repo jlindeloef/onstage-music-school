@@ -27,25 +27,35 @@ h3 {
 }
 
 /*Header*/
-header {}
 
 /* Add a black background color to the top navigation */
 .topnav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: rgb(131, 224, 201);
     overflow: hidden;
-    width: 100%;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-
     color: black;
     text-align: center;
-    padding: 14px 6px;
+    padding: 14px 5px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
+    font-family: 'oswald', sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: black;
 }
 
 header h1 {
@@ -90,10 +100,9 @@ main {
     /*display: flex;*/
     flex: 1 0 auto;
     margin-top: 0;
-    background-color: white;
-}
+   }
 
-.main-h3 {
+/*.main-h3 {
     text-align: center;
 }
 
@@ -126,8 +135,13 @@ ul {
 .signup {
     margin-bottom: 10px;
     text-align: center;
+}*/
+/* Headimage */
+#headimage  {
+    height: 600px;
+    width: 100%;
+    background: url("../images/keysandtrumpet.webp") no-repeat center center/cover;
 }
-
 /* Footer */
 #social-networks {
     text-align: center;
