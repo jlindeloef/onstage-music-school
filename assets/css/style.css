@@ -48,14 +48,14 @@ h3 {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: whitesmoke;
-  color: black;
+    background-color: whitesmoke;
+    color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
-  color: black;
+    background-color: #04AA6D;
+    color: black;
 }
 
 header h1 {
@@ -64,45 +64,15 @@ header h1 {
     color: rgb(34, 32, 32);
     margin-top: 5px;
     font-family: 'oswald', sans-serif;
-
 }
 
-/*nav {
-    background-color: lightgoldenrodyellow;
-    padding: 5px 0 5px 0;
-    line-height: 32px;
-
-
-}*/
-
-/*.topnav a {
-    display: flex;
-    justify-content: space-around;
-    font-size: 90%;
-    font-family: 'Oswald';
-    letter-spacing: 1px;
-    list-style-type: none;*/
-
-/*background-image: url('../images/navbar.webp')
-}*/
-
-/*li>a {
-    color: black;
-}
-
-#menu a:hover {
-    color: black;
-}*/
-
-/* Main content */
 main {
     /* Make main element push footer down */
-    /*display: flex;*/
     flex: 1 0 auto;
     margin-top: 0;
-   }
+}
 
-/*.main-h3 {
+.main-h3 {
     text-align: center;
 }
 
@@ -135,13 +105,39 @@ ul {
 .signup {
     margin-bottom: 10px;
     text-align: center;
-}*/
-/* Headimage */
-#headimage  {
-    height: 600px;
-    width: 100%;
-    background: url("../images/keysandtrumpet.webp") no-repeat center center/cover;
 }
+
+
+.container {
+    position: relative;
+    max-width: 800px;
+    /* Maximum width */
+    margin: 0 auto;
+    /* Center it */
+}
+
+.content h1 {
+    color: rgb(28, 65, 52);
+}
+
+.container .content {
+    position: absolute;
+    /* Position the background text */
+    top: 0;
+    /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(156, 135, 135)
+        /* Fallback color */
+        background: rgba(75, 66, 66, 0.5);
+    /* Black background with 0.5 opacity */
+    color: black;
+    /* Grey text */
+    text-align: center;
+    width: 100%;
+    /* Full width */
+    padding: 20px;
+    /* Some padding */
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
