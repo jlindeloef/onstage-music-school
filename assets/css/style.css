@@ -18,6 +18,12 @@ body {
     position: relative;
 }
 
+h1, h2, h3 {
+    font-family: 'oswald', sans-serif;
+    text-transform: uppercase;
+    color:black;
+}
+   
 /*Header*/
 header {
     padding: 10px 20px 5px;
@@ -34,7 +40,7 @@ header h1 {
     text-align: center;
     color: rgb(34, 32, 32);
     margin-top: 5px;
-    font-family: 'Oswald';
+    font-family: 'oswald',sans-serif;
 }
 
 nav {
@@ -66,18 +72,20 @@ li>a {
 /* Main content */
 main {
     /* Make main element take up any surplus space to push footer down */
-    display: flex;
+    /*display: flex;*/
     flex: 1 0 auto;
     margin-top: 0;
     background-color: white;
-}
 
-/*learnimage */
-#learnimage {
- height: 600px;
- width: 100%;   
-background-image: url('../images/navbar.webp') 
+    #passion {
+        text-align: center;
 }
+p   {
+    text-align: left;
+    
+}
+    
+
 /* Footer */
 #social-networks {
     text-align: center;
