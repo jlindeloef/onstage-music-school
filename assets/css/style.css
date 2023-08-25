@@ -27,14 +27,72 @@ h3 {
 }
 
 /*Header*/
-header {
+/*header {
     padding: 10px 20px 5px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     background-color: rgb(177, 66, 25);
+}
 
+/*nav {
+    background-color: lightgoldenrodyellow;
+    padding: 10px 10px 5px 10px;
+    line-height: 32px;
+}*/
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(177, 66, 25);
+    overflow: hidden;
+    
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    display: flex;
+    justify-content: center;
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    list-style-type: none;
+    font-size: 18px;
+    font-family: 'oswald', sans-serif;
+   
+    
+    
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+/*#menu {
+    display: flex;
+    justify-content: space-around;
+    font-size: 90%;
+    font-family: 'Oswald';
+    letter-spacing: 1px;
+    list-style-type: none;*/
+
+    /*background-image: url('../images/navbar.webp')*/
+
+
+li>a {
+    color: black;
+}
+
+#menu a:hover {
+    color: black;
 }
 
 header h1 {
@@ -49,6 +107,7 @@ nav {
     background-color: lightgoldenrodyellow;
     padding: 5px 0 5px 0;
     line-height: 32px;
+   
 
 }
 
@@ -80,32 +139,40 @@ main {
     background-color: white;
 }
 
+.main-h3 {
+    text-align: center;
+}
+
 #passion {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 .About-us {
     margin-bottom: 10px;
+
 }
 
 .about-school {
     margin-bottom: 10px;
 }
+
 .courses {
     margin-bottom: 10px;
     text-align: center;
-    
+
 }
 
-  ul {
-      column-count: 2;
-      
-      list-style-type: none;
-  }
- .signup {
-     margin-bottom: 10px;
+ul {
+    column-count: 2;
+
+    list-style-type: none;
+}
+
+.signup {
+    margin-bottom: 10px;
     text-align: center;
- } 
+}
 
 /* Footer */
 #social-networks {
