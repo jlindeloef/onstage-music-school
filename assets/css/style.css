@@ -76,14 +76,21 @@ main {
     flex: 1 0 auto;
     margin-top: 0;
     background-color: white;
+}
 
     #passion {
         text-align: center;
+    }
+
+.About-us  {
+    margin-bottom: 10px;
 }
-p   {
-    text-align: left;
-    
+
+.about-school {
+    margin-bottom: 10px;
 }
+
+
     
 
 /* Footer */
