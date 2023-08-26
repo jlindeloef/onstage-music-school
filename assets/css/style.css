@@ -121,10 +121,12 @@ ul {
 #signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
+    text-align: center;
 }
 #signup-form>h3 {
     color: #fafafa;
     margin-bottom: 20px;
+    text-align: center;
 }
 .text-input {
     background: transparent;
