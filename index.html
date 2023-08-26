@@ -127,17 +127,45 @@
           </ul>
         </div>
       </section>
-      <section>
-        <div class="signup">
-          <h4>Woluld you like to know more about our courses?</h4>
-          <p>send an application!</p>
+    
+        <section id="signup">
+            <form id="signup-form" method="POST" action="action-page">
+                <h2><i class="fa-solid fa-microphone-lines"></i> Would you like to know more about our courses?</h2>
+                <h3>Send an application</h3>
+                <label for="your_full_name">Your full name</label>
+                <input type="text" name="name" id="name" class="text-input" required>
+                <br>
+                <label for="phonenumber">phonenumber</label>
+                <input type="text" name="phonenumber" id="phonenumber" class="text-input" required>
+                <br>
+                <label for="email_address">Email Address</label>
+                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <br>
+                <label for="instrumentbox">Which instruments are in your interest?</label>
+                <textarea id="instrumentbox" name="Instrumentbox" cols="80" rows="5"></textarea>
+                </div>
+                <button type="submit" class="apply-button">Apply</button>
+            </form>
+        </section>
 
-        <form>
-            <input type="text" name="name" placeholder="Full name">
-            <input type="Email" name="email" placeholder="Email">
-            <input type="text" name="phonenumber" placeholder="Phone number">
-            <input type="submit">
-        </form>
+        <!--<form>
+            <div>
+                <label for="name-field">Name</label>
+                <input id="name-field" type="text" name="full_name" placeholder="Your name">
+            </div>
+            <div>
+                <label for="email-field">Email</label>
+                <input id="email-field" type="email" name="email" placeholder="Your email">
+            </div>
+            <label for="feedback">What can we do to improve your experience with us?</label>
+            <br>
+            <textarea id="feedback" placeholder="Your feedback" name="feedback" cols="80" rows="5"></textarea>
+            
+            
+            
+            <br>
+            <input type="submit" value="Enter prize draw">
+        </form> -->
         </div>
       </section>
     </main>
