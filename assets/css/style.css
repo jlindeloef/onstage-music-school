@@ -9,7 +9,6 @@
 }
 
 /* Body */
-
 body {
     /* General styles */
     min-height: 100vh;
@@ -18,12 +17,6 @@ body {
     font-family: 'lato', sans-serif;
     background-color: white;
     position: relative;
-}
-
-h1, h2, h3 {
-    font-family: 'oswald', sans-serif;
-    text-transform: uppercase;
-    color: black;
 }
 
 /*Header*/
@@ -62,6 +55,7 @@ main {
     margin-top: 0;
     display: flex;
     flex-direction: column;
+    background-color: rgb(196, 174, 133);
 }
 
 /* Picture with title */
@@ -69,17 +63,18 @@ main {
     position: relative;
 }
 
-.content h1,
-h2 {
-    color: rgb(190, 182, 182, 7);
+.content, h1 {
+    color: rgb(190, 182, 182,7);
     font-size: 40px;
-}
+    font-family: 'oswald', sans-serif;
+    text-transform: uppercase;
+    text-align: left;
+    }
 
 .container .content {
     position: absolute;
     top: 0;
-    color: rgb(131, 224, 201);
-    text-align: left;
+    text-align: center;
     width: 100%;
     padding: 0 auto;
 }
@@ -98,28 +93,33 @@ main h3 {
 
 .About-us {
     margin-bottom: 10px;
-}
+    }
 
 .about-school {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 h5 {
     text-align: center;
 }
 
-
+#courses {
+    background-color: rgb(103, 103, 136);;
+}
 .courses {
     margin-bottom: 10px;
     text-align: center;
      display: flex;
     justify-content: space-around;
     column-gap: 30px;
+    background-color: rgb(103, 103, 136);
 }
 
 ul {
     column-count: 2;
     list-style-type: none;
+    
 }
 
 /* Form */
