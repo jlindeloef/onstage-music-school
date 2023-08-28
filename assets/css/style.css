@@ -60,18 +60,23 @@ main {
 
 /* Picture with title */
 .container {
+    background-image: url("../images/childpiano.jpeg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 200px 100px 300px 10%;
+    flex-grow: 1;
     position: relative;
 }
 
-.content h1 {
+.content  {
     color: rgb(190, 190, 190, 7);
-    font-size: 40px;
+    font-size: 20px;
     text-shadow: 2px 2px rgb(61, 77, 73);
     font-family: 'oswald', sans-serif;
     text-transform: uppercase;
     position: absolute;
     text-align: left;
-    top: 0;
+    left: 0;
     padding: 0 auto;
 
 }
