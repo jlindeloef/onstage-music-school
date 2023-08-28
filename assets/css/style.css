@@ -24,8 +24,8 @@ body {
 /* Navigation and links */
 .topnav {
     display: flex;
-    justify-content: space-around;
-    background-color: rgb(131, 224, 201);
+    justify-content: space-evenly;
+    background-color: rgb(196, 174, 133);
     overflow: hidden;
 }
 
@@ -61,25 +61,21 @@ main {
 /* Picture with title */
 .container {
     position: relative;
-    
-}
-
-.content, h1 {
-    color: rgb(190, 190, 190, 7);
-    font-size: 40px;
-    font-family: 'oswald', sans-serif;
-    text-transform: uppercase;
-    text-align: left;
     }
 
-.container .content {
+.content
+h1 {
+    color: rgb(190, 190, 190, 7);
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(61, 77, 73);
+    font-family: 'oswald', sans-serif;
+    text-transform: uppercase;
     position: absolute;
+    text-align: left;
     top: 0;
-    text-align: center;
-    
     padding: 0 auto;
+   
 }
-
 
 /* Text setting main*/
 
@@ -92,11 +88,13 @@ main h3 {
     text-align: center;
 }
 
-.About-us {
+.about-us {
     margin-bottom: 10px;
-    }
+    padding: 10px;
+     box-shadow: 5px 10px #888888;
+}
 
-.about-school {
+#about-school {
     margin-bottom: 20px;
     text-align: center;
 }
@@ -106,21 +104,23 @@ h5 {
 }
 
 #courses {
-    background-color: rgb(103, 103, 136);;
+    background-color: white;
+    ;
 }
+
 .courses {
     margin-bottom: 10px;
     text-align: center;
-     display: flex;
+    display: flex;
     justify-content: space-around;
     column-gap: 30px;
-    background-color: rgb(103, 103, 136);
+    background-color: white;
 }
 
 ul {
     column-count: 2;
     list-style-type: none;
-    
+
 }
 
 /* Form */
@@ -184,20 +184,24 @@ ul {
 
 /* Footer */
 
-#contact-us {
+footer {
     text-align: center;
-    background-color: rgb(131, 224, 201);
+    background-color: rgb(196, 174, 133);
+}
+#contact-us {
+    
+    
     font-family: 'oswald', sans-serif;
     font-size: large;
-    
 }
+
 #social-networks {
-    text-align: center;
+    
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: rgb(131, 224, 201);
+   
 }
 
 #social-networks i {
@@ -205,4 +209,3 @@ ul {
     padding: 5%;
     color: black;
 }
-
