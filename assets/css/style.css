@@ -35,10 +35,10 @@ body {
     padding: 14px 5px;
     text-decoration: none;
     font-size: 20px;
-    }
+}
 
 .topnav a:hover {
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
 }
 
@@ -51,10 +51,10 @@ body {
 main {
     /* Make main element push footer down */
     display: flex;
-        flex-direction: column;
+    flex-direction: column;
     flex: 1 0 auto;
     margin-top: 0;
-   background-color: rgb(196, 174, 133);
+    background-color: rgb(196, 174, 133);
 }
 
 /* Picture with title */
@@ -68,16 +68,19 @@ main {
     position: relative;
 }
 
-.content  {
+.content {
     color: rgb(190, 190, 190, 7);
-    font-size: 18px;
+    font-size: 28px;
     text-shadow: 2px 2px rgb(61, 77, 73);
     text-transform: uppercase;
     position: absolute;
     text-align: center;
     right: 0;
-    padding: 120px 20px;
+    padding: 100px 50px;
+}
 
+.content>h2 {
+    color: #256266;
 }
 
 /* Text setting main*/
@@ -85,7 +88,7 @@ main {
 main {
     line-height: normal;
     text-align: center;
-   
+
 }
 
 .about-us {
@@ -94,10 +97,7 @@ main {
     box-shadow: 5px 10px #0a0808;
 }
 
-Courses {
-   background-color: white;
-    
-}
+
 #courses {
     background-color: white;
 }
@@ -108,12 +108,12 @@ Courses {
     text-align: center;
     justify-content: space-around;
     column-gap: 30px;
-    }
+}
 
 ul {
     column-count: 2;
     list-style-type: none;
-    
+
 }
 
 /* Form */
@@ -137,7 +137,7 @@ ul {
     text-align: center;
 }
 
- #signup-form>h3 {
+#signup-form>h3 {
     color: #fafafa;
     margin-bottom: 20px;
     text-align: center;
@@ -170,7 +170,7 @@ ul {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: rgb(131, 224, 201);
+    background-color: #256266;
     color: black;
 }
 
@@ -201,8 +201,8 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
-    
-.about-us {
+
+    .about-us {
         column-count: 2;
-     }
-         }
+    }
+}
