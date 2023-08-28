@@ -17,6 +17,7 @@ body {
     font-family: 'lato', sans-serif;
     background-color: white;
     position: relative;
+    font-family: 'oswald', sans-serif;
 }
 
 /*Header*/
@@ -26,7 +27,6 @@ body {
     display: flex;
     justify-content: space-evenly;
     background-color: rgb(196, 174, 133);
-    overflow: hidden;
 }
 
 .topnav a {
@@ -35,8 +35,7 @@ body {
     padding: 14px 5px;
     text-decoration: none;
     font-size: 20px;
-    font-family: 'oswald', sans-serif;
-}
+    }
 
 .topnav a:hover {
     background-color: whitesmoke;
@@ -51,11 +50,11 @@ body {
 /*Main section*/
 main {
     /* Make main element push footer down */
+    display: flex;
+        flex-direction: column;
     flex: 1 0 auto;
     margin-top: 0;
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(196, 174, 133);
+   background-color: rgb(196, 174, 133);
 }
 
 /* Picture with title */
@@ -73,7 +72,6 @@ main {
     color: rgb(190, 190, 190, 7);
     font-size: 18px;
     text-shadow: 2px 2px rgb(61, 77, 73);
-    font-family: 'oswald', sans-serif;
     text-transform: uppercase;
     position: absolute;
     text-align: center;
@@ -85,12 +83,9 @@ main {
 /* Text setting main*/
 
 main {
-    font-family: 'oswald', sans-serif;
     line-height: normal;
-}
-
-main h3 {
     text-align: center;
+   
 }
 
 .about-us {
@@ -99,33 +94,26 @@ main h3 {
     box-shadow: 5px 10px #0a0808;
 }
 
-#about-school {
-    margin-bottom: 20px;
-    text-align: center;
+Courses {
+   background-color: white;
+    
 }
-
-h5 {
-    text-align: center;
-}
-
 #courses {
     background-color: white;
 }
 
 .courses {
+    display: flex;
     margin-bottom: 10px;
     text-align: center;
-    display: flex;
     justify-content: space-around;
     column-gap: 30px;
-    background-color: white;
-}
+    }
 
 ul {
     column-count: 2;
     list-style-type: none;
     
-
 }
 
 /* Form */
@@ -139,7 +127,7 @@ ul {
 
 #signup-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(71, 64, 64, 0.6);
     padding: 30px;
 }
 
@@ -149,7 +137,7 @@ ul {
     text-align: center;
 }
 
-#signup-form>h3 {
+ #signup-form>h3 {
     color: #fafafa;
     margin-bottom: 20px;
     text-align: center;
@@ -204,8 +192,6 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-
-
 }
 
 #social-networks i {
@@ -215,7 +201,8 @@ footer {
 }
 
 @media screen and (min-width: 992px) {
-    .about-us {
+    
+.about-us {
         column-count: 2;
-    }
-}
+     }
+         }
