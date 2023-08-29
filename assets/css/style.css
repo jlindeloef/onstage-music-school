@@ -79,9 +79,6 @@ main {
     padding: 100px 50px;
 }
 
-.content>h2 {
-    color: #256266;
-}
 
 /* Text setting main*/
 
@@ -170,7 +167,7 @@ ul {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #256266;
+    background-color: #81cfd4;
     color: black;
 }
 
