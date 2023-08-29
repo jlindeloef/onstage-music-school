@@ -14,7 +14,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: 'lato', sans-serif;
     background-color: white;
     position: relative;
     font-family: 'oswald', sans-serif;
@@ -63,7 +62,7 @@ main {
     background-size: cover;
     background-position: 75%;
     width: 100%;
-    padding: 100px 50px 400px;
+    padding: 100px 50px 300px;
     flex-grow: 1;
     position: relative;
 }
@@ -94,28 +93,36 @@ main {
     box-shadow: 5px 10px #0a0808;
 }
 
+.courses {
+    background-color: white;
+   
+   }
 
 #courses {
-    background-color: white;
-}
-
-.courses {
     display: flex;
     margin-bottom: 10px;
-    text-align: center;
     justify-content: space-around;
-    column-gap: 30px;
-}
+    line-height: 2;
+    }
 
-ul {
-    column-count: 2;
+
+main ul {
+   column-count: 2;
     list-style-type: none;
-
+   column-gap: 150px;
+    
+}
+ul li {
+    padding: 0;
+    border: 5px solid rgb(196, 174, 133);
+    font-size: x-large;
+    
+    
 }
 
 /* Form */
 #signup {
-    background-image: url("../images/keysandtrumpet.webp");
+    background-image: url("../images/keysandtrumpet.webp"); 
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -169,6 +176,7 @@ ul {
     font-size: 100%;
     background-color: #81cfd4;
     color: black;
+       
 }
 
 
@@ -177,6 +185,7 @@ ul {
 footer {
     text-align: center;
     background-color: rgb(196, 174, 133);
+   
 }
 
 #contact-us {
@@ -185,16 +194,24 @@ footer {
 }
 
 #social-networks {
+    text-align: center;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+  
+   
+    
 }
 
 #social-networks i {
+    
     font-size: 160%;
-    padding: 5%;
+    padding: 2%;
     color: black;
+    
+    
+   
 }
 
 @media screen and (min-width: 992px) {
