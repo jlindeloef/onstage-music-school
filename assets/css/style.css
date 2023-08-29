@@ -87,9 +87,9 @@ main {
 /* Text setting main*/
 
 main {
-    line-height: normal;
-    text-align: center;
-
+   text-align: center;
+   margin-top: auto;
+   font-size: x-large;
 }
 
 .about-us {
@@ -101,16 +101,14 @@ main {
 
 #courses {
     display: flex;
-    /* margin-bottom: 10px; */
     justify-content: center;
-    /* line-height: 2; */
-    flex-wrap: wrap;
+     flex-wrap: wrap;
 
 }
 
 .course {
     border: 5px solid rgb(196, 174, 133);
-    /* font-size: x-large; */
+    font-size: x-large; 
     width: 100px;
     margin-top: 10px;
     margin-right: 10px;
