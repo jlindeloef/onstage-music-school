@@ -6,7 +6,7 @@ The website also have information about the school and their philosophy and stra
 
 So get into the music!
 
-![Thr responisive from different screens.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshot%20responsive.jpg)
+![The responisive from different screens.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshot%20responsive.jpg)
 
 
 ### Existing Features
@@ -14,6 +14,7 @@ So get into the music!
 + Navigation Bar
   - The navigation bar will follow you when you scroll down through the website so you can easily navigate to where you want to go where ever you are on the website.
   - The "Home/About Us"-button will take you to the top of the page where you also can read about the school.
+    
     ![The Navigation bar.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/navigationbar.jpg)
 
 + Head Image With Logo
