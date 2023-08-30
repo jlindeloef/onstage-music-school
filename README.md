@@ -6,14 +6,22 @@ So get into the music!
 
 ![The responsive image.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshotresponsive.jpg)
 
-### About the website
-## Project planning
+## About the website
+### Project planning
 Before start planing I needed to view music school website to look at it from a users point of view.
 I visited a varying of websites and notice what I thought was working and what was not working. Also after working on my diploma I learned many things to bring to my project.
 I also want to be clear that this is a fictional school! I want to have a distinct website with necessary information to make a dicision, as a user- What do I need to know to sign up?
 I started build up a structure in Balsamic to get a sence of what it could be.
 
-## Targeting
+### UX
+This website are for mainly parents or guardian´s who want to sign up their children to a music school.
+
+### Users stories
+- As a user I want to know what kind of website I am on.
+- As a user I want to navigate easy and quickly through the website.
+- As a user I want to know which instruments they have.
+- As a user I want to find out the prizing of the courses.
+- As a user I want to have an easy and distinct sign up.
 
 
 
