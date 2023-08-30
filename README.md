@@ -13,7 +13,7 @@ I visited a varying of websites and notice what I thought was working and what w
 I also want to be clear that this is a fictional school! I want to have a distinct website with necessary information to make a dicision, as a user- What do I need to know to sign up?
 
 I started build up a structure in Balsamiq to get a sence of what it could be. The structure is very basic though I wanted to use images as background and did`nt decide the colours from under the process.
-Here is my Balsamiq wireframe:
+Here is my Balsamiq wireframe: [Onstage Music School](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/Onstage%20music%20school.pdf)
 
 ### UX
 This website are for mainly parents or guardian´s who want to sign up their children to a music school.
