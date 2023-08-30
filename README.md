@@ -33,18 +33,14 @@ The website has four sections:
 **Sign up:** A sign up form to send to school with name, phonenumber, email and wich instrument/instruments that are in interest.
 **Footer:** With contact information and links to social media.
 
-(Style
-Background: It was decided after some deliberation not to have a background image running behind the content as this was both distracting and made the content look more cluttered. The decision to leave the background color as white happed towards the end of the design phase when the content had been style and it was decided that this was the most minimalistic and legible approach.
+## Style
+**Background:**I decided to use a darkyellow background on the navigation section and the "About Us" section. I tried different variants of colour but found this as a working colour with the dark image in the logo and the white background colour from the "Courses" section below. The logo background is an image that I found suiting for the schools visions and philosophy. The "Courses" section, as i mention has a white background with content in boxes with borders as same darkyellow colour used before. The "Sign up" section has an image as background that I found as a good choice and the footer has the darkyellow colour.
 
-Color: The white background was chosen as it enabled the content to be very legible and to stand out for the user, making the site more navigatable.
-
-The colors eventually selected for use were;
-
-White #FFF -used for the background.
-Grey #D3D3D3 -used for hover over functions and detailing.
-Teal #008080 -used for heading, sub-headings and buttons.
-Black #000 -used for text as black on white is widely known as the most legible combination of colors.
-The white background helped the banner images and images in the gallery page to pop out as well as heightening the pop of color in the icon used.)
+**The colors used was:**
+Darkyellow rgb(196, 174, 133- for background.
+White #FFF -used for the background and text.
+Black #000- For text and shadows.
+Turquoise #81cfd4- For the apply button.
 
 ### Technologies
 1. HTML - To create a basic site
