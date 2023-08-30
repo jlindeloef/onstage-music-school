@@ -14,6 +14,8 @@ So get into the music!
 + Navigation Bar
   - The navigation bar will follow you when you scroll down through the website so you can easily navigate to where you want to go where ever you are on the website.
   - The "Home/About Us"-button will take you to the top of the page where you also can read about the school.
+    ![The Navigation bar.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/navigationbar.jpg)
+
 + Head Image With Logo
 + About Us
 + Courses
