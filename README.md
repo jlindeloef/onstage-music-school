@@ -23,6 +23,8 @@ So get into the music!
 
       ![The logo with image.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/logo.png)
 + About Us
+  - Here are information about the school, from what ages they teach. But also their visions and what they think is important of learning music.
+  - The "About Us"- section is linked together with "Home" up in the navigation bar. 
 + Courses
 + Sign up
 + Footer
