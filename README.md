@@ -111,7 +111,7 @@ I used Google Lighthouse via devtools to assess the website.
 + Unsolved bugs
   - The fixed navigation bar covered the content when dropping down to the choosen section. I solved it by linking the navigation bar links a bit higher up on the page then it actually should be. This can be a little noticed in some screensizes.
  
-  ### Deployment
+  ## Deployment
 + The site was deployed to Git Hub pages using the following steps:
 + After logging into GitHub I located my repository for my Portfolio Project 1.
 + I then clicked the "Settings" button at the top of my repository
