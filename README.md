@@ -86,10 +86,10 @@ The website has four sections:
   
 ![Footer image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/footer.jpg)
 
-## Features to Implement
+### Features to Implement
 Further there could be a gallery with images and videos from concerts and lessons.
 
-### Testing
+## Testing
 + I tested the site, and it works in different web browsers: Chrome, Firefox, and Microsoft Edge.
 + On mobile devices, I tested the my site on a Samsung Galaxy A13 with the Samsung browser and an iPhone SE with the Safari browser.
 + I confirmed that the site is responsive and functions on different screen sizes using the devtools device toolbar.
@@ -121,11 +121,11 @@ I used Google Lighthouse via devtools to assess the website.
 + On the top of the page, the link to the complete website is provided.
 + The deployed site will update automatically upon new commits to the master branch.
 
-  ### Credits
+  ## Credits
   **Code:** Some code parts were taken from W3Schools (https://www.w3schools.com/), Stack Overflow (https://www.w3schools.com/) modified for the purpose of my website. 
 Some code used in "Coders Coffehouse" and "Love Running Challenge" was used and changed for my website.
 
-##Acknowledgements
+## Acknowledgements
 My mentor Medale Oluwafemi for guidance and inspiration and reviewing.
 Ideas were taken from The Code Institute's "Coders Coffee House" and "Love Running project".
 
