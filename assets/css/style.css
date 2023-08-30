@@ -17,7 +17,7 @@ body {
     background-color: white;
     position: relative;
     font-family: 'oswald', sans-serif;
-    
+
 }
 
 /*Header*/
@@ -30,7 +30,7 @@ body {
     background-color: rgb(196, 174, 133);
     position: fixed;
     justify-content: space-evenly;
-    z-index: 90; 
+    z-index: 90;
 }
 
 .topnav a {
@@ -67,9 +67,8 @@ main {
     background-size: cover;
     background-position: 75%;
     width: 100%;
-    padding: 100px 50px 300px;
+    padding: 100px 50px 500px;
     flex-grow: 1;
-
 }
 
 .content {
@@ -87,9 +86,9 @@ main {
 /* Text setting main*/
 
 main {
-   text-align: center;
-   margin-top: auto;
-   font-size: x-large;
+    text-align: center;
+    margin-top: auto;
+    font-size: x-large;
 }
 
 .about-us {
@@ -102,13 +101,13 @@ main {
 #courses {
     display: flex;
     justify-content: center;
-     flex-wrap: wrap;
+    flex-wrap: wrap;
 
 }
 
 .course {
     border: 5px solid rgb(196, 174, 133);
-    font-size: x-large; 
+    font-size: x-large;
     width: 100px;
     margin-top: 10px;
     margin-right: 10px;
@@ -185,7 +184,7 @@ footer {
 
 #contact-us {
     font-family: 'oswald', sans-serif;
-    font-size: medium;
+    font-size: x-large;
 }
 
 #social-networks {
@@ -201,7 +200,7 @@ footer {
 
 #social-networks i {
 
-    font-size: 160%;
+    font-size: 250%;
     padding: 2%;
     color: black;
 
