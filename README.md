@@ -6,7 +6,7 @@ The website also have information about the school and their philosophy and stra
 
 So get into the music!
 
-![The responisive from different screens.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshot%20responsive.jpg)
+![The responsive image.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshotresponsive.jpg)
 
 
 ### Existing Features
