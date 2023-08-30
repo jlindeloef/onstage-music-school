@@ -17,7 +17,9 @@ So get into the music!
     
     ![The Navigation bar.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/navigationbar.jpg)
 
-+ Head Image With Logo
++ Head Image with Logo
+  - The first you will notice when entering the website is the main image with a girl playing piano on stage with Onnstage Music School logo on the image.
+  - This section indroduces the very philosophy and strategy of the School, to learn but also to play music!
 + About Us
 + Courses
 + Sign up
