@@ -1,12 +1,20 @@
 # Onstage Music School
-## About the website and for whom it target.
-
-Onstage Music School is a music scool website for parents and children to find information about the schools courses and how to sign up. The school has varied offers of courses for youths between 5-19 years old.
-The website also have information about the school and their philosophy and strategy. All the necessary information is there to continue a musical journey.
+## Portfolio project one
+ Onstage Music School is a music scool for youths between 5-19 years old. On this website user will find information about the school, their courses and how to sign up.
 
 So get into the music!
 
 ![The responsive image.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshotresponsive.jpg)
+
+### About the website
+## Project planning
+Before start planing I needed to view music school website to look at it from a users point of view.
+I visited a varying of websites and notice what I thought was working and what was not working. Also after working on my diploma I learned many things to bring to my project.
+I also want to be clear that this is a fictional school! I want to have a distinct website with necessary information to make a dicision, as a user- What do I need to know to sign up?
+I started build up a structure in Balsamic to get a sence of what it could be.
+
+## Targeting
+
 
 
 ### Existing Features
