@@ -72,12 +72,20 @@ The website has four sections:
 + #### Courses
   - On this section you will find the different courses the School has to offer but also the prizing.
   - It has a different colour to stand out from the rest of the sections with bordders around every course for easy display for the user.
+
+![Courses image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/courses.jpg)
+
 + #### Sign up page
   - On this section the user can sign up for the school. The user have to send in name,email and phonenumber.
   - There is a textfield for entering which instrument that are in interest. User can write multiple instruments if so will.
+
+![Sign up image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/signup.jpg)
+
 + #### Footer
   - In the footer users find Onstage Music School contacts but also social media links.
-    
+  - 
+![Footer image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/footer.jpg)
+
 ## Features to Implement
 Further there could be a gallery with images and videos from concerts and lessons.
 
