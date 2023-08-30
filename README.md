@@ -13,7 +13,7 @@ So get into the music!
 
 + Navigation Bar
   - The navigation bar will follow you when you scroll down through the website so you can easily navigate to where you want to go where ever you are on the website.
-  - Home/About Us
+  - The "Home/About Us"-button will take you to the top of the page where you also can read about the school.
 + Head Image With Logo
 + About Us
 + Courses
