@@ -9,5 +9,16 @@ So get into the music!
 ![Thr responisive from different screens.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshot%20responsive.jpg)
 
 
-### Features
+### Existing Features
+
++ Navigation Bar
+  - The navigation bar will follow you when you scroll down through the website so you can easily navigate to where you want to go where ever you are on the website.
+  - Home/About Us
++ Head Image With Logo
++ About Us
++ Courses
++ Sign up
++ Footer
+
+
 
