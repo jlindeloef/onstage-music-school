@@ -17,7 +17,6 @@ body {
     background-color: white;
     position: relative;
     font-family: 'oswald', sans-serif;
-
 }
 
 /*Header*/
@@ -58,7 +57,6 @@ main {
     flex-direction: column;
     flex: 1 0 auto;
     margin-top: 0;
-
 }
 
 /* Picture with title */
@@ -102,7 +100,6 @@ main {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-
 }
 
 .course {
@@ -170,16 +167,13 @@ main {
     font-size: 100%;
     background-color: #81cfd4;
     color: black;
-
 }
-
 
 /* Footer */
 
 footer {
     text-align: center;
     background-color: rgb(196, 174, 133);
-
 }
 
 #contact-us {
@@ -193,19 +187,12 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-
-
-
 }
 
 #social-networks i {
-
     font-size: 250%;
     padding: 2%;
     color: black;
-
-
-
 }
 
 @media screen and (min-width: 992px) {
