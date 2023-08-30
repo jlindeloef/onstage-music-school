@@ -96,11 +96,11 @@ Further there could be a gallery with images and videos from concerts and lesson
 + I confirmed that the navigation and the sections Home/About us, Courses and Sign up are readable and easy to understand.
 + I confirmed that the form works: it requires entries in every field, only accepts an email in the email field, and the submit  button works.
 
-## Validator Testing
+### Validator Testing
 + HTML No errors were returned when passing through the official W3C validator
 + CSS No errors were found when passing through the official (Jigsaw) validator
 
-## Testing using Google Lighthouse:
+### Testing using Google Lighthouse:
 I used Google Lighthouse via devtools to assess the website.
 
 ![Lighthouse image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/lighthouse.png)
