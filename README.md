@@ -125,7 +125,7 @@ I used Google Lighthouse via devtools to assess the website.
   **Code:** Some code parts were taken from W3Schools (https://www.w3schools.com/), Stack Overflow (https://www.w3schools.com/) modified for the purpose of my website. 
 Some code used in "Coders Coffehouse" and "Love Running Challenge" was used and changed for my website.
 
-## Acknowledgements
+### Acknowledgements
 My mentor Medale Oluwafemi for guidance and inspiration and reviewing.
 Ideas were taken from The Code Institute's "Coders Coffee House" and "Love Running project".
 
