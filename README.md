@@ -11,7 +11,7 @@ So get into the music!
 Before start planing I needed to view music school website to look at it from a users point of view.
 I visited a varying of websites and notice what I thought was working and what was not working. Also after working on my diploma I learned many things to bring to my project.
 I also want to be clear that this is a fictional school! I want to have a distinct website with necessary information to make a dicision, as a user- What do I need to know to sign up?
-I started build up a structure in Balsamic to get a sence of what it could be.
+I started build up a structure in Balsamic to get a sence of what it could be. Here is my wireframe planing in balsamic:
 
 ### UX
 This website are for mainly parents or guardian´s who want to sign up their children to a music school.
@@ -22,6 +22,16 @@ This website are for mainly parents or guardian´s who want to sign up their chi
 - As a user I want to know which instruments they have.
 - As a user I want to find out the prizing of the courses.
 - As a user I want to have an easy and distinct sign up.
+For the users, I wanted to give them a good overview of Onstage Music School, focusing on the courses and sign up.
+
+### Website structure
+The website has four sections:
+Home/About us: I combined these two Sections mostly because of layout on the page. 
+Courses: A clear view of the courses the school has to offer and also prizing.
+Sign up: A sign up form to send to school with name, phonenumber, email and wich instrument/instruments that are in interest.
+Footer: With contact information and links to social media.
+
+
 
 
 
