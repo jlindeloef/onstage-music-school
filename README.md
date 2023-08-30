@@ -1,8 +1,8 @@
 # Onstage Music School
-## Portfolio project one
+## Portfolio project 1: Onstage Music School
  Onstage Music School is a music scool for youths between 5-19 years old. On this website user will find information about the school, their courses and how to sign up.
 
-So get into the music!
+**So get into the music!**
 
 ![The responsive image.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshotresponsive.jpg)
 
@@ -28,10 +28,10 @@ For the users, I wanted to give them a good overview of Onstage Music School, fo
 
 ### Website structure
 The website has four sections:
-Home/About us: I combined these two Sections mostly because of layout on the page. 
-Courses: A clear view of the courses the school has to offer and also prizing.
-Sign up: A sign up form to send to school with name, phonenumber, email and wich instrument/instruments that are in interest.
-Footer: With contact information and links to social media.
+**Home/About us:** I combined these two Sections mostly because of layout on the page. 
+**Courses:** A clear view of the courses the school has to offer and also prizing.
+**Sign up:** A sign up form to send to school with name, phonenumber, email and wich instrument/instruments that are in interest.
+**Footer:** With contact information and links to social media.
 
 (Style
 Background: It was decided after some deliberation not to have a background image running behind the content as this was both distracting and made the content look more cluttered. The decision to leave the background color as white happed towards the end of the design phase when the content had been style and it was decided that this was the most minimalistic and legible approach.
@@ -51,8 +51,7 @@ The white background helped the banner images and images in the gallery page to 
 2. CSS - To create a nice, standout front-end and to give a great user experience
 3. Balsamiq - To create a wireframe
 
-
-# Features
+## Features
 
 ### Existing Features
 
