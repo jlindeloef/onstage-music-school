@@ -5,7 +5,8 @@ Onstage Music School is a music scool website for parents and children to find i
 The website also have information about the school and their philosophy and strategy. All the necessary information is there to continue a musical journey.
 
 So get into the music!
-![This must work](/repository/assets/images/screenshotresponsive1.png)
+
+![Thr responisive from different screens.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshot%20responsive.jpg)
 
 
 ### Features
