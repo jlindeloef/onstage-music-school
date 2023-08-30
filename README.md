@@ -26,8 +26,15 @@ So get into the music!
   - Here are information about the school, from what ages they teach. But also their visions and what they think is important of learning music.
   - The "About Us"- section is linked together with "Home" up in the navigation bar. 
 + Courses
-+ Sign up
+  - On this section you will find the different courses the School has to offer but also the prizing.
+  - It has a different colour to stand out from the rest of the sections with bordders around every course for easy display for the user.
++ Sign up page
+  - On this section the user can sign up for the school. The user have to send in name,email and phonenumber.
+  - There is a textfield for entering which instrument that are in interest. User can write multiple instruments if so will.
 + Footer
+  - In the footer users find Onstage Music School contacts but also social media links.
+## Features to Implement
+Further there could be a gallery from concerts and pictures.
 
 
 
