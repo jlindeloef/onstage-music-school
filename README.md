@@ -83,7 +83,7 @@ The website has four sections:
 
 + #### Footer
   - In the footer users find Onstage Music School contacts but also social media links.
-  - 
+  
 ![Footer image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/footer.jpg)
 
 ## Features to Implement
@@ -91,7 +91,7 @@ Further there could be a gallery with images and videos from concerts and lesson
 
 ### Testing
 + I tested the site, and it works in different web browsers: Chrome, Firefox, and Microsoft Edge.
-+ On mobile devices, I tested the my site on a Samsung Galaxy S23 Ultra with the Samsung browser and an iPhone SE with the Safari browser.
++ On mobile devices, I tested the my site on a Samsung Galaxy A13 with the Samsung browser and an iPhone SE with the Safari browser.
 + I confirmed that the site is responsive and functions on different screen sizes using the devtools device toolbar.
 + I confirmed that the navigation and the sections Home/About us, Courses and Sign up are readable and easy to understand.
 + I confirmed that the form works: it requires entries in every field, only accepts an email in the email field, and the submit  button works.
@@ -100,6 +100,11 @@ Further there could be a gallery with images and videos from concerts and lesson
 + HTML No errors were returned when passing through the official W3C validator
 + CSS No errors were found when passing through the official (Jigsaw) validator
 
+## Testing using Google Lighthouse:
+I used Google Lighthouse via devtools to assess the website.
+
+![Lighthouse image](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/lighthouse.png)
+
   ### Bugs
 + Solved bugs
   - A column gap settings expanded the width outside the page but my mentor helped me solve it with flexbox properties.
@@ -107,16 +112,24 @@ Further there could be a gallery with images and videos from concerts and lesson
   - The fixed navigation bar covered the content when dropping down to the choosen section. I solved it by linking the navigation bar links a bit higher up on the page then it actually should be. This can be a little noticed in some screensizes.
  
   ### Deployment
++ The site was deployed to Git Hub pages using the following steps:
++ After logging into GitHub I located my repository for my Portfolio Project 1.
++ I then clicked the "Settings" button at the top of my repository
++ Under General, navigate to Code and Automation and select "Pages".
++ In the Build and Deployment section for Source, select 'Deploy from a branch' from the drop-down list.
++ For Branch, select "main" from the drop-down list and "/root" in the next bar and Save.
++ On the top of the page, the link to the complete website is provided.
++ The deployed site will update automatically upon new commits to the master branch.
 
   ### Credits
-  Code: Some code snippets were taken and adjusted for purpose from W3Schools (https://www.w3schools.com/), Stack Overflow (https://www.w3schools.com/) and FreeCodeCamp (https://www.freecodecamp.org/).
-Some code used in the Love Running Challenge was used and changed for purpose.
+  **Code:** Some code parts were taken from W3Schools (https://www.w3schools.com/), Stack Overflow (https://www.w3schools.com/) modified for the purpose of my website. 
+Some code used in "Coders Coffehouse" and "Love Running Challenge" was used and changed for my website.
 
-Acknowledgements
+##Acknowledgements
+My mentor Medale Oluwafemi for guidance and inspiration and reviewing.
+Ideas were taken from The Code Institute's "Coders Coffee House" and "Love Running project".
 
-Ideas were taken from the Code Institute's Coffee House and Love Running projects.
-The the Code Institute tutor support team.
-My mentor, Medale Oluwafemi for guidance.
+
 
 
 
