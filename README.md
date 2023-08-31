@@ -40,7 +40,7 @@ The website has four sections:
 + **Footer:** With contact information and links to social media.
 
 ### Colours
-**Background:**I decided to use a darkyellow background on the navigation section and the "About Us" section. I tried different variants of colour but found this as a working colour with the dark image in the logo and the white background colour from the "Courses" section below. The logo background is an image that I found suiting for the schools visions and philosophy. The "Courses" section, as i mention has a white background with content in boxes with borders as same darkyellow colour used before. The "Sign up" section has an image as background that I found as a good choice and the footer has the darkyellow colour.
+**Background:** I decided to use a darkyellow background on the navigation section and the "About Us" section. I tried different variants of colour but found this as a working colour with the dark image in the logo and the white background colour from the "Courses" section below. The logo background is an image that I found suiting for the schools visions and philosophy. The "Courses" section, as i mention has a white background with content in boxes with borders as same darkyellow colour used before. The "Sign up" section has an image as background that I found as a good choice and the footer has the darkyellow colour.
 
 **The colors used was:**
 + Darkyellow rgb(196, 174, 133- for background.
