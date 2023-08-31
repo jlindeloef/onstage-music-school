@@ -3,6 +3,12 @@
  Onstage Music School is a music scool for youths between 5-19 years old. On this website user will find information about the school, their courses and how to sign up.
 
 **So get into the music!**
+Johan Lindelöf
+
+[Onstage Music School Website](https://jlindeloef.github.io/onstage-music-school/)
+
+[Github Repository](https://github.com/jlindeloef/onstage-music-school)
+
 
 ![The responsive image.](https://github.com/jlindeloef/onstage-music-school/blob/main/assets/images/screenshotresponsive.jpg)
 
