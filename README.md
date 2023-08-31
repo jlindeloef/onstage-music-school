@@ -34,10 +34,10 @@ For the users, I wanted to give them a good overview of Onstage Music School, fo
 
 ## Website structure
 The website has four sections:
-**Home/About us:** I combined these two Sections mostly because of layout on the page. 
-**Courses:** A clear view of the courses the school has to offer and also prizing.
-**Sign up:** A sign up form to send to school with name, phonenumber, email and wich instrument/instruments that are in interest.
-**Footer:** With contact information and links to social media.
++ **Home/About us:** I combined these two Sections mostly because of layout on the page. 
++ **Courses:** A clear view of the courses the school has to offer and also prizing.
++ **Sign up:** A sign up form to send to school with name, phonenumber, email and wich instrument/instruments that are in interest.
++ **Footer:** With contact information and links to social media.
 
 ### Colours
 **Background:**I decided to use a darkyellow background on the navigation section and the "About Us" section. I tried different variants of colour but found this as a working colour with the dark image in the logo and the white background colour from the "Courses" section below. The logo background is an image that I found suiting for the schools visions and philosophy. The "Courses" section, as i mention has a white background with content in boxes with borders as same darkyellow colour used before. The "Sign up" section has an image as background that I found as a good choice and the footer has the darkyellow colour.
